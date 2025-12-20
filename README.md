@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fred-mba
 - 👀 I’m interested in Backend development
-- 🌱 I’m currently learning Frontend development using React
-- 💞️ I’m looking to collaborate on a web application portfolio project 
+- 🌱 I’m currently learning Frontend development
+- 💞️ I’m open for collaboration in FullStack project 
 - 📫 How to reach me fredrickmbangah68@gmail.com
 - Languages: `Python`, `JavaScript`, `C`
 - Stack: `Django`, `Vue3`
