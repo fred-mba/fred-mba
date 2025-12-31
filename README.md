@@ -4,8 +4,10 @@
 - 💞️ I’m open for collaboration in FullStack project 
 - 📫 How to reach me fredrickmbangah68@gmail.com
 - Languages: `Python`, `JavaScript`, `TypeScript`
-- Frontend Stack: `React`, `Vue3`
-- Backend Stack: `Node.js`, `Django`
+- Frontend Stack: `React`, `Vue3`, `Tailwind`
+- Backend Stack: `Node.js`, `Django`, `PostgreSQL`, `SQL`, `MongoDB`
+- Athorization & Authentication: `JWT`, `OAuth`
+- Deployment: `Docker`
 <!---
 fred-mba/fred-mba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
