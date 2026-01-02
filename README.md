@@ -6,6 +6,7 @@
 - Languages: `Python`, `JavaScript`, `TypeScript`
 - Frontend Stack: `React`, `Vue3`, `Tailwind`
 - Backend Stack: `Node.js`, `Django`, `PostgreSQL`, `SQL`, `MongoDB`
+- Cloud Stroage: `AWS`
 - Athorization & Authentication: `JWT`, `OAuth`
 - Deployment: `Docker`
 <!---
